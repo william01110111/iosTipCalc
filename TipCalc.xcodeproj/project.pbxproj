@@ -286,6 +286,7 @@
 				3DBEA7DB1D18F1C20006FE35 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
